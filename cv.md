@@ -3,8 +3,6 @@ layout: cv
 title: "CV"
 ---
 
-Sure, here is your CV in markdown format:
-
 # Curriculum Vitae
 ## Luca Malinverno, PhD
 
