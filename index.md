@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-## Welcome Baby
+## Welcome to the Prompt Pub!
 <style>
     p {
         text-align: justify;
