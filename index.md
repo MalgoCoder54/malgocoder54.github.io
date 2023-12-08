@@ -18,10 +18,5 @@ You will also find more info about me and my history, as well as videos of confe
 
 So, drop what you’re doing, and join the merry mob. Before you know it, you’ll be in my Prompt Pub!
 
-<style>
-    p {
-        text-align: right;
-    }
-</style>
 
 _Tantum Partecipata Scientia Valet_
