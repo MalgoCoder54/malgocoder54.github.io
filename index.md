@@ -10,12 +10,21 @@ title: "Home"
     }
 </style>
 
-This is me!
 
-Welcome to our latest blog post on Prompt Engineering, where we delve into the fascinating world of AI and machine learning. Today, we have the pleasure of introducing a key player in the field, **Luca Malinverno**¹.
+Hello and welcome to my pub! I had a feeling i should have called this place "puzzle", so, as Barney would say "people will think -Why puzzle?- and that's the puzzle!!". 
+So, take a set and grab a _pint_.. ehm.. a **prompt**!
 
-Luca is a passionate technologist and nature lover who has successfully merged these two interests during his studies in Physics¹. His journey in the tech world started from a young age, and he has since developed a deep understanding of cutting-edge technologies and data modelling techniques¹.
+You will find here some post about my experience in prompt engineering and experience with LLMs and Generative AI that I'd like to share with you! 
 
-Currently, Luca holds the position of Data Scientist at **Porini**, a leading company in the tech industry¹. In his role, he faces diverse challenges every day, particularly within the education team. His responsibilities include constant studying, passing exams and certifications, and interacting with colleagues from other teams to organize courses and training plans.
+You will also find some more info about me and my history, as well as a video of conferences and seminaries that are pubbliccly avaliable!
+
+So, drop what you are doing, and join the merry mop, before you know you are in my Prompt Pub!
 
 
+<style>
+    p {
+        text-align: right;
+    }
+</style>
+
+_Tantum Partecipata Scientia Valet_
