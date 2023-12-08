@@ -17,7 +17,7 @@ I am a physicist, I got my doctorate in nuclear physics, collaborating with nucl
 
 ## Experience
 
-### July 2020-Today – Porini SRL- R&D Lead an AI-LAB Program Manager
+##### July 2020-Today – Porini SRL- R&D Lead an AI-LAB Program Manager
 
 **Main Task and Responsibility**
 - Leading Strategic innovative projects
@@ -27,47 +27,48 @@ I am a physicist, I got my doctorate in nuclear physics, collaborating with nucl
 - Providing training on Data Analysis and Data Science
 - Teaching at Bologna Business School, PoliMI Business School, and Sole 24h Business School
 
-### Nov. 2019 – July 2020 – Post Doc Researcher
+##### Nov. 2019 – July 2020 – Post Doc Researcher
 
-### Oct. 2016 - Nov 2019 - PhD Student in Physics
+##### Oct. 2016 - Nov 2019 - PhD Student in Physics
 
-### Dec. 2014 - Feb. 2016 – Research Fellowship
+##### Dec. 2014 - Feb. 2016 – Research Fellowship
 
 ---
 
 ## Education
 
-### PhD in Physics and Astrophysics
+##### PhD in Physics and Astrophysics
 Università degli Studi dell’Insubria – 4 Giugno 2021
 
-### Master of Science Degree in Particle and Nuclear Physics
+##### Master of Science Degree in Particle and Nuclear Physics
 Università degli Studi dell’Insubria - 6 October 2016
 
-### Bachelor Degree in Physics
+##### Bachelor Degree in Physics
 Università degli Studi dell’Insubria - 10 Dec 2014
 
 [Publication list](https://malgocoder54.github.io/publications)
 ---
 
-## Patents
+### Patents
+
 “DEVICE AND METHOD FOR GENERATING RANDOM BIT SEQUENCES”, Massimo Caccia, Malinverno Luca, Paolucci Lorenza, inventors and Patent Rights Owners (up to 2021).
 
 ---
 
-## Academic Awards
+### Academic Awards
 I was also co-author of 5 oral presentations at international conferences and I was speaker at Italian Physics Society Congress in Trento, Sept. 2017 and in International ANIMMA conference in Portorose, Sept. 2019.
 I was awarded by the Italian Physics Society with a Special Mention in the field of Applied Physics for my oral presentation and publication about the optimisation procedure and commissioning of nuclear security hand-held devices. I also held several presentation in the field of AI in various conferences with universities and dedicated community. The latest were “Happy Birth-AI”, held with Università Milano-Bicocca, and “.netDev Community”, where I held an invited speech about the latest technology to integrate Generative AI and relational databases to perform SQL database based R.A.G.
 
 ---
 
-## Language
+### Language
 - Italian: mother tongue
 - English: C1/C2 Level (IELTS)
 
 ---
 
 
-## Technical Certification Owned
+### Technical Certification Owned
 - Azure Data Scientist Associate
 - Azure AI Engineer associate
 - Microsoft Certified Trainer
@@ -77,6 +78,6 @@ I was awarded by the Italian Physics Society with a Special Mention in the field
 
 ---
 
-## Honors
+### Honors
 
 I was awarded by Italian Prime Minister with the “Benemerenza di III° Classe, I° Fascia” from Presidenza del Consiglio dei Ministri - Dipartimento di protezione civile - 12 April 2012.
