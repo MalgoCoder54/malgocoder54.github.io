@@ -1,9 +1,41 @@
 list:
-- {title: 'A historical perspective of biomedical explainable AI research', Authors: 'L. Malinverno et al.', Journal-pages: 'Patterns (N Y). 2023 Sep 8; 4(9): 100830.', publicationdate:'2023', DOI:'https://doi.org/10.1016%2Fj.patter.2023.100830' }
-- {title: 'In-silico generation of random bit streams', Authors: 'Caccia, M.; Malinverno, L.; et al.', Journal-pages: 'NIM-A, Vol 980', publicationdate:'2020', DOI:'https://dx.doi.org/10.1016/j.nima.2020.164480' }
-- {title: 'Qualification of a compact neutron detector based on SiPM', Authors: 'Santoro, R.; Caccia, M.; Ampilogov, N.; Malinverno, L.; Allwork, C.; Ellis, M.; Abba, A.; Caponio, F.; Cusimano, A.', Journal-pages: 'J-INST', publicationdate:'2020', DOI:'https://dx.doi.org/10.1088/1748-0221/15/05/C05053' }
-- {title: 'Measuring Nonclassicality of Mesoscopic Twin-Beam States with Silicon Photomultipliers', Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.', Journal-pages: 'Proceedings', publicationdate:'2019', DOI:'https://dx.doi.org/10.3390/proceedings2019012048' }
-- {title: 'Measuring nonclassicality with silicon photomultipliers', Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.', Journal-pages: 'Optics Letters', publicationdate:'2019', DOI:'https://dx.doi.org/10.1364/OL.44.001371' }
-- {title: 'Optimizing Silicon photomultipliers for Quantum Optics', Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.', Journal-pages: 'Scientific Reports', publicationdate:'2019', DOI:'https://dx.doi.org/10.1038/s41598-019-43742-1' }
-- {title: 'An optimisation procedure for pulse shape discrimination algorithms tailored for hand-held nuclear security instruments', Authors: 'Luca Malinverno', Journal-pages: 'Nuovo Cimento C', publicationdate:'2018', DOI:'DOI' }
-- {title: 'Qualification and performance of a neutron detector system with enhanced gamma discrimination, based on Silicon Photomultiplier arrays coupled to an EJ-299-34 scintillator', Authors: 'Romualdo Santoro, Massimo Caccia, Luca Malinverno, Alexander Martemiyanov, Mark Ellis and Chris Allwork', Journal-pages: 'IEEE NUCLEAR SCIENCE SYMPOSIUM CONFERENCE RECORD', publicationdate:'2017', DOI:'https://dx.doi.org/10.1109/NSSMIC.2017.8533117' }
+  - title: 'A historical perspective of biomedical explainable AI research'
+    Authors: 'L. Malinverno et al.'
+    Journal-pages: 'Patterns (N Y). 2023 Sep 8; 4(9): 100830.'
+    publicationdate: '2023'
+    DOI: 'https://doi.org/10.1016%2Fj.patter.2023.100830'
+  - title: 'In-silico generation of random bit streams'
+    Authors: 'Caccia, M.; Malinverno, L.; et al.'
+    Journal-pages: 'NIM-A, Vol 980'
+    publicationdate: '2020'
+    DOI: 'https://dx.doi.org/10.1016/j.nima.2020.164480'
+  - title: 'Qualification of a compact neutron detector based on SiPM'
+    Authors: 'Santoro, R.; Caccia, M.; Ampilogov, N.; Malinverno, L.; Allwork, C.; Ellis, M.; Abba, A.; Caponio, F.; Cusimano, A.'
+    Journal-pages: 'J-INST'
+    publicationdate: '2020'
+    DOI: 'https://dx.doi.org/10.1088/1748-0221/15/05/C05053'
+  - title: 'Measuring Nonclassicality of Mesoscopic Twin-Beam States with Silicon Photomultipliers'
+    Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.'
+    Journal-pages: 'Proceedings'
+    publicationdate: '2019'
+    DOI: 'https://dx.doi.org/10.3390/proceedings2019012048'
+  - title: 'Measuring nonclassicality with silicon photomultipliers'
+    Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.'
+    Journal-pages: 'Optics Letters'
+    publicationdate: '2019'
+    DOI: 'https://dx.doi.org/10.1364/OL.44.001371'
+  - title: 'Optimizing Silicon photomultipliers for Quantum Optics'
+    Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.'
+    Journal-pages: 'Scientific Reports'
+    publicationdate: '2019'
+    DOI: 'https://dx.doi.org/10.1038/s41598-019-43742-1'
+  - title: 'An optimisation procedure for pulse shape discrimination algorithms tailored for hand-held nuclear security instruments'
+    Authors: 'Luca Malinverno'
+    Journal-pages: 'Nuovo Cimento C'
+    publicationdate: '2018'
+    DOI: 'DOI'
+  - title: 'Qualification and performance of a neutron detector system with enhanced gamma discrimination, based on Silicon Photomultiplier arrays coupled to an EJ-299-34 scintillator'
+    Authors: 'Romualdo Santoro, Massimo Caccia, Luca Malinverno, Alexander Martemiyanov, Mark Ellis and Chris Allwork'
+    Journal-pages: 'IEEE NUCLEAR SCIENCE SYMPOSIUM CONFERENCE RECORD'
+    publicationdate: '2017'
+    DOI: 'https://dx.doi.org/10.1109/NSSMIC.2017.8533117'
