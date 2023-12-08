@@ -7,3 +7,6 @@ list:
 - {title: 'Optimizing Silicon photomultipliers for Quantum Optics', Authors: 'Chesi, Giovanni; Malinverno, Luca; Allevi, Alessia et al.', Journal-pages: 'Scientific Reports', publicationdate: 2019, DOI: 'https://dx.doi.org/10.1038/s41598-019-43742-1' }
 - {title: 'An optimisation procedure for pulse shape discrimination algorithms tailored for hand-held nuclear security instruments', Authors: 'Luca Malinverno', Journal-pages: 'Nuovo Cimento C', publicationdate: 2018 }
 - {title: 'Qualification and performance of a neutron detector system with enhanced gamma discrimination, based on Silicon Photomultiplier arrays coupled to an EJ-299-34 scintillator', Authors: 'Romualdo Santoro, Massimo Caccia, Luca Malinverno, Alexander Martemiyanov, Mark Ellis and Chris Allwork', Journal-pages: 'IEEE NUCLEAR SCIENCE SYMPOSIUM CONFERENCE RECORD', publicationdate: 2017, DOI: 'https://dx.doi.org/10.1109/NSSMIC.2017.8533117' }
+
+newsletter:
+ - {title: 'IDEA - APP Tartufo', Link: 'https://doi.org/10.1016%2Fj.patter.2023.100830' }
