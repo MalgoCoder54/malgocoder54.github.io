@@ -10,16 +10,13 @@ title: "Home"
     }
 </style>
 
+Hello and welcome to my _pub_! I had a feeling I should have called this place “Puzzle”. So, as Barney would say, “People will think - Why Puzzle? - and that’s the puzzle!!”. Anyway...  take a seat and grab a pint… ehm… a **prompt**!
 
-Hello and welcome to my pub! I had a feeling i should have called this place "puzzle", so, as Barney would say "people will think -Why puzzle?- and that's the puzzle!!". 
-So, take a set and grab a _pint_.. ehm.. a **prompt**!
+Here, you will find posts about my experiences in prompt engineering and with LLMs and Generative AI that I’d like to share with you!
 
-You will find here some post about my experience in prompt engineering and experience with LLMs and Generative AI that I'd like to share with you! 
+You will also find more info about me and my history, as well as videos of conferences and seminars that are publicly available!
 
-You will also find some more info about me and my history, as well as a video of conferences and seminaries that are pubbliccly avaliable!
-
-So, drop what you are doing, and join the merry mop, before you know you are in my Prompt Pub!
-
+So, drop what you’re doing, and join the merry mob. Before you know it, you’ll be in my Prompt Pub!
 
 <style>
     p {
