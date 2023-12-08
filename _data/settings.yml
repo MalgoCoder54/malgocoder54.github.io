@@ -4,7 +4,6 @@ menu:
 - {name: 'about', url: '/courses'}
 - {name: 'contact', url: '/contact'}
 
-
 social:
 - {icon: 'github', link: 'https://github.com/MalgoCoder54'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/luca-malinverno'}
