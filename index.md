@@ -4,6 +4,11 @@ title: "Home"
 ---
 
 ## Welcome Baby
+<style>
+    p {
+        text-align: justify;
+    }
+</style>
 
 This is me!
 
