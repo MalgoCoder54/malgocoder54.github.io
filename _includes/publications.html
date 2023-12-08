@@ -5,12 +5,12 @@
       {% for item in site.data.publications.list %}
         <li>
           <p>
-            <a href="{{ item.url }}">{{ item.name }}({{ item.Year }})</a>
+            {{ item.title }}({{ item.Year }})
             <em>{{ item.Authors }}</em>
             <br>
-            <strong>Journal:</strong> {{ item.Journal-pages }}
+            <strong>Journal:</strong> {{ item.Journal-pages }}, {{item.publicationdate}}
             <br>
-            <strong>DOI:</strong> {{ item.DOI }}
+            <strong><a href="{{ item.doi }}">DOI:</strong> {{ item.DOI }} </a>
           </p>
         </li>
       {% endfor %}
