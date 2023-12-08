@@ -18,5 +18,4 @@ Luca is a passionate technologist and nature lover who has successfully merged t
 
 Currently, Luca holds the position of Data Scientist at **Porini**, a leading company in the tech industry¹. In his role, he faces diverse challenges every day, particularly within the education team. His responsibilities include constant studying, passing exams and certifications, and interacting with colleagues from other teams to organize courses and training plans.
 
-#### Add a picture
 
