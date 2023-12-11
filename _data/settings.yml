@@ -1,8 +1,8 @@
 menu:
-- {name: 'post', url: '/post'}
-- {name: 'about', url: '/cv'}
-- {name: 'publications', url: '/publications'}
-- {name: 'contact', url: '/contact'}
+- {name: 'post', url: 'post'}
+- {name: 'about', url: 'cv'}
+- {name: 'publications', url: 'publications'}
+- {name: 'contact', url: 'contact'}
 
 social:
 - {icon: 'github', link: 'https://github.com/MalgoCoder54'}
