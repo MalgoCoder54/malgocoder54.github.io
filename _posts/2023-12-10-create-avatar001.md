@@ -22,7 +22,6 @@ To start, navigate to [aka.ms/DesignMe](https://aka.ms/DesignMe). Here, you’ll
 </figure>
 </p>
 
-
 Think of this as the foundation of your avatar. You’re sketching a rough outline that will be refined and detailed in the following steps. I completed the first prompt as follow:
 
  ```python
