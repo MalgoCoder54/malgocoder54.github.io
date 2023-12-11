@@ -81,7 +81,7 @@ n this tutorial, I tried to be as realistic as possible, to have an avatar that 
 
 But, for the sake of transparency, here is the prompt I used in DesignMe to create that avatar! Keep in mind that I did the very same process I described in the article, redefining the zero-shot prompt several times to add elements or suppress additional "things" I did not like about the avatar! 
 
-` 3D cartoon Man with a Happy smile, standing at an angle, wearing a Blue Polo shirt, Brown Oval eyes, and Super short Brown Solid Cut hair and short brown beard. Holding A pint of beer, sit at a table with a surface laptop in front of it.`
+`3D cartoon Man with a Happy smile, standing at an angle, wearing a Blue Polo shirt, Brown Oval eyes, and Super short Brown Solid Cut hair and short brown beard. Holding A pint of beer, sit at a table with a surface laptop in front of it.`
 
 
 <p align="center">
