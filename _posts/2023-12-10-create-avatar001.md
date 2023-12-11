@@ -14,7 +14,7 @@ In this post, I’ll show you how to create a personalized avatar using multiple
 Let's start with a simple and pre-configured prompt. This prompt serves as a blueprint for your avatar, outlining its basic features and characteristics of our A(i)vatar.
 To start, navigate to [aka.ms/DesignMe](https://aka.ms/DesignMe). Here, you’ll be able to see a pre-compiled prompt, where you shall insert some info in the blank spaces. 
 
-![Prompt in DesignMe Link](../assets/img_create-avatar001/Prompt001.png)
+![Prompt in DesignMe Link](https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png)
 
 
 Think of this as the foundation of your avatar. You’re sketching a rough outline that will be refined and detailed in the following steps.
