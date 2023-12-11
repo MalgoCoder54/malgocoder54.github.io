@@ -16,7 +16,7 @@ Let's start with a simple and pre-configured prompt. This prompt serves as a blu
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png" />
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png" width="512" height="512"/>
     <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
 </figure>
 </p>
@@ -29,7 +29,8 @@ By clicking on generate, the first avatar will be created!
 
 Here is the result I loved the most in this first interaction:
 
-<p align="center"> <figure align="center"> <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img1.png" /> <figcaption align="center">My first Avatar</figcaption> </figure> </p>
+<p align="center"> <figure align="center"> <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img1.png" width="512" height="512"/> 
+<figcaption align="center">My first Avatar</figcaption> </figure> </p>
 
 
 ### Step 2: Refining the Prompt
@@ -43,7 +44,7 @@ This will give you a more detailed image. In my case, this is the avatar I loved
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img3.jpeg" />
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img2.jpeg" width="512" height="512" />
     <figcaption align="center">My second attempt </figcaption>
 </figure>
 </p>
@@ -55,7 +56,7 @@ Now, it’s time to add some personal touches. I'd like to change the boy to a s
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img3.jpeg" />
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img3.jpeg" width="512" height="512" />
     <figcaption align="center">The results of the third prompt </figcaption>
 </figure>
 </p>
@@ -70,7 +71,7 @@ This is the last prompt I used to go through this creation:
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img4.jpeg" />
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img4.jpeg" width="512" height="512"/>
     <figcaption align="center">The final avatar </figcaption>
 </figure>
 </p>
@@ -85,7 +86,7 @@ But, for the sake of transparency, here is the prompt I used in DesignMe to crea
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img/avatar_001.jpg" />
+    <img src="https://malgocoder54.github.io/assets/img/avatar_001.jpg" width="512" height="512"/>
     <figcaption align="center">The final avatar </figcaption>
 </figure>
 </p>
