@@ -7,11 +7,11 @@
       {{ content }}
 
       {% for item in site.data.post.published %}
-        <li>
-          <p>
+        
             <strong><a href="{{ item.url }}">{{item.name}}</a>
-          </p>
-        </li>
+            {{item.abstract}}
+            <br>
+       
       {% endfor %}
 
 

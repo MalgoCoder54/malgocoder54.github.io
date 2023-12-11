@@ -1,6 +1,7 @@
 published:
-  - {name: 'Prompt your avatar - part 1', url: '/post/2023-12-10-create-avatar001.md'}
+  - {name: 'Prompt your avatar - part 1', url: '/_post/2023-12-10-create-avatar001.md'
+    'abstract: 'This is the first part of a series of posts about how to create your own avatar using the prompt of GPT-4 and Dall-e3.'}
 
 draft:
-  - {name: 'Prompt your avatar - part 2', url: '/post/2023-12-10-create-avatar002.md'}
+  - {name: 'Prompt your avatar - part 2', url: '/_post/2023-12-10-create-avatar002.md'}
   - {name: 'xmas avatar', url: '/post/2023-12-10-xmas-avatar.md'}
