@@ -32,9 +32,9 @@ By clicking on generate, the first avatar will be created!
 Here the result i loved the most in this first interaction:
 
 <p align="center">
-<figure>
+<figure align="center">
     <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Img1.png" />
-    <figcaption>My first Avatar</figcaption>
+    <figcaption align="center">My first Avatar</figcaption>
 </figure>
 </p>
 
