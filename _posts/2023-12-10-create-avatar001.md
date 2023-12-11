@@ -16,7 +16,7 @@ Let's start with a simple and pre-configured prompt. This prompt serves as a blu
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png" width="512" height="512"/>
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png"/>
     <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
 </figure>
 </p>
