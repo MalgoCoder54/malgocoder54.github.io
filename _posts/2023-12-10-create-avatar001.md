@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crate an Avatar - Part 1"
+abstract: "This is the first part of a series of posts about how to create your own avatar using the prompt of GPT-4 and Dall-e3."
 ---
 
 # How to promt you avatar with Zero-Shot Prompts
