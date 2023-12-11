@@ -24,8 +24,8 @@ To start, navigate to [aka.ms/DesignMe](https://aka.ms/DesignMe). Here, you’ll
 
 Think of this as the foundation of your avatar. You’re sketching a rough outline that will be refined and detailed in the following steps. I completed the first prompt as follow:
 
- ```python
- prompt = 'Claymation style boy with a smile on the front, wearing a yellow t-shirt with the name Luca, light brown eyes, and short brown hair. Holding a beer. Fashion, text 3D rendering, typography, illustration, painting, photo, poster, 3D render.'
+ ```
+Claymation style boy with a smile on the front, wearing a yellow t-shirt with the name Luca, light brown eyes, and short brown hair. Holding a beer. Fashion, text 3D rendering, typography, illustration, painting, photo, poster, 3D render.
  ```
 
 By clicking on generate, the first avatar will be created!
