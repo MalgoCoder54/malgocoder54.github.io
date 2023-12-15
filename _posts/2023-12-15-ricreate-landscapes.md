@@ -43,7 +43,7 @@ I got these pictures:
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_background/pt1.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt1.jpg" width="512" />
     <figcaption  align="center">The first picture that represent the bar</figcaption>
 </figure>
 </p>
@@ -56,7 +56,7 @@ And there it is!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt2.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt2.jpg" width="512" />
     <figcaption  align="center">A version with no one in it</figcaption>
 </figure>
 </p>
@@ -71,7 +71,7 @@ But, as always, I want to add a touch of personal flair! I have a particular fon
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt3.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt3.jpg" width="512" />
     <figcaption  align="center">That is a standard cabin though.</figcaption>
 </figure>
 </p>
@@ -80,7 +80,7 @@ And this one is very nice as well!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt3_3.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt3_3.jpg"width="512" /> 
     <figcaption  align="center">Amazing wooden cabin, but still not quite as I want them :) </figcaption>
 </figure>
 </p>
@@ -93,7 +93,7 @@ Here we are!!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt4.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt4.jpg" width="512" />/>
     <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
 </figure>
 </p>
@@ -108,14 +108,14 @@ And that were the results:
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt5.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt5.jpg" width="512" />
     <figcaption  align="center">One of my favourite last images</figcaption>
 </figure>
 </p>
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt5_2.jpg"/>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt5_2.jpg" width="512" />
     <figcaption  align="center">This hit the first place as well!</figcaption>
 </figure>
 </p>
