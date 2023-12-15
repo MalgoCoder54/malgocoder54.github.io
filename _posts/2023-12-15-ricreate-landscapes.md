@@ -80,7 +80,7 @@ And this one is very nice as well!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_background/pt3_3.jpg"width="512" /> 
+    <img src="https://malgocoder54.github.io/assets/img_background/pt3_3.jpg" width="512" /> 
     <figcaption  align="center">Amazing wooden cabin, but still not quite as I want them :) </figcaption>
 </figure>
 </p>
