@@ -18,7 +18,7 @@ I was wandering around the city with my wife, my daughter, and my dog when we st
 <p align="center">
 <figure align="center">
     <img src="https://malgocoder54.github.io/assets/img_background/original.jpg"/>
-    <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
+    <figcaption  align="center">The picture I got at the pub</figcaption>
 </figure>
 </p>
 
@@ -32,70 +32,93 @@ I began by uploading the picture to Bing Chat and asked it what kind of prompt i
 
 And that was the answer:
 
-`bookstore or library with a cozy atmosphere and fairy lights. shelf in the back. realistic photo.`
+`A cozy bookstore or library with wooden shelves filled with a diverse collection of books and wine bottles. The ceiling is adorned with bare tree branches intertwined with twinkling fairy lights, and a single white pendant light hangs from the ceiling. Two people are browsing or reading in the warm yellow light.`
 
 When I asked:
 
-`create the image of a bookstore or library with a cozy atmosphere and fairy lights. shelf in the back. realistic photo.`
+`Can you create that?`
 
 I got these pictures:
 
-![Upload screenshot](URL_upload_screenshot)
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png"/>
-    <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
+    <img src="https://malgocoder54.github.io/assets/img_background/pt1.jpg"/>
+    <figcaption  align="center">The first picture that represent the bar</figcaption>
 </figure>
 </p>
 
+They were amazing, but I did not want any person in it, just the place, so i kindly asked:
+
+`Can you do it with no people in it?`
+
+And there it is!
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt2.jpg"/>
+    <figcaption  align="center">A version with no one in it</figcaption>
+</figure>
+</p>
 
 ## Chapter 3: Playing with Bing Chat
 
 Okay, the base image is truly amazing! It captures the cozy atmosphere of the bar beautifully. 
 
-But, as always, I want to add a touch of personal flair! I have a particular fondness for large windows with views of a forest outside, so that's the element I decided to incorporate next. Moreover, the oicure it is see by an angle that would it make it not very suitable for a teams background, and I'd love to have a front camera.
+But, as always, I want to add a touch of personal flair! I have a particular fondness for large windows with views of a forest outside, so that's the element I decided to incorporate next. Moreover, the picure it is see by an angle that would it make it not very suitable for a teams background, and I'd love to have a front camera.
 
-`bookstore or library with a cozy atmosphere and fairy lights. shelf in the back and seen frontaly. realistic photo.`
-
-<p align="center">
-<figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png"/>
-    <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
-</figure>
-</p>
-
-Nice! It's getting in the right place! Let's even personalise it more: I'd love cabin woods with a view on trees in late autumn when it begins to snow. So that's what i asked!
-
-`bookstore or library like wood cabin with a cozy atmosphere and fairy lights. shelf in the back and seen frontaly. on the left a big window. outside the window an autumn wood with little snow. realistic photo.`
-
-Couple of picture hit me:
+`can you do it, with the same style, but like it was a cozy wood cabin with a big window? outside the window I'd love to see a wood, in late fall, with the snow that begin to fall. Inside a desk and a library`
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png"/>
-    <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt3.jpg"/>
+    <figcaption  align="center">That is a standard cabin though.</figcaption>
 </figure>
 </p>
+
+And this one is very nice as well!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/Prompt001.png"/>
-    <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt3_3.jpg"/>
+    <figcaption  align="center">Amazing wooden cabin, but still not quite as I want them :) </figcaption>
 </figure>
 </p>
 
+Now, we miss only the faily light, so i went back to the first prompt and I told Bing:
+
+`can you add also these details? shelves filled with a diverse collection of books and wine bottles. The ceiling is adorned with bare tree branches intertwined with twinkling fairy lights, and a single white pendant light hangs from the ceiling.`
+
+Here we are!!
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt4.jpg"/>
+    <figcaption  align="center">This is the standard form to fill to get the first prompt on aka.ms/DesignMe</figcaption>
+</figure>
+</p>
 
 ## Chapter 4: My New Teams Background
 
 Last bit... I'd love to make the cozy wood cabin even more mine... So a desk and a laptop are mandatory :) Here the last prompt:
 
-bookstore or library like wood cabin with a cozy atmosphere and fairy lights. shelf in the back and seen frontaly. on the left a big window. outside the window an autumn wood with little snow. at the center a desk with an open surface pc laptop. realistic photo.
+`now add a surface laptop` 
 
-And that was the result:
+And that were the results:
 
-![Generated image](URL_generated_image)
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt5.jpg"/>
+    <figcaption  align="center">One of my favourite last images</figcaption>
+</figure>
+</p>
 
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/img_create-avatar001/pt5_2.jpg"/>
+    <figcaption  align="center">This hit the first place as well!</figcaption>
+</figure>
+</p>
 
 --- 
 
