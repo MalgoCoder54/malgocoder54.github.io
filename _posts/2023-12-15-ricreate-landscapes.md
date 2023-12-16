@@ -93,7 +93,7 @@ Here we are!!
 
 ## Chapter 4: My New Teams Background
 
-Last bit... I'd love to make the cozy wood cabin even more mine... So a desk and a laptop are mandatory :) Here the last prompt:
+Last bit... I'd love to make the cozy wood cabin even more mine... So a laptop on the desk is mandatory :) Here the last prompt:
 
 `now add a surface laptop` 
 
