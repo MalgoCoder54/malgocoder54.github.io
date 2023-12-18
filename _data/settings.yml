@@ -1,5 +1,6 @@
 menu:
 - {name: 'post', url: 'post'}
+- {name: 'video', url: 'video'}
 - {name: 'about', url: 'cv'}
 - {name: 'publications', url: 'publications'}
 - {name: 'contact', url: 'contact'}
