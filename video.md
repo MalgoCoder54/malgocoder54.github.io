@@ -12,7 +12,7 @@ A list of videos you can find on youtube about different topics!
 
 
 #### Gli stati generali dell'Intelligenza Artificiale
-[![Stati Generali](https://img.youtube.com/vi/XdN8nzoeOG4/mqdefault.jpg)]https://www.youtube.com/watch?v=XdN8nzoeOG4)
+[![Stati Generali](https://img.youtube.com/vi/XdN8nzoeOG4/mqdefault.jpg)](https://www.youtube.com/watch?v=XdN8nzoeOG4)
 
 
 #### L'AI Va di moda
