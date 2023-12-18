@@ -8,7 +8,7 @@ title: "Video"
 A list of videos you can find on youtube about different topics!
 
 #### AI Days Rome - Nov. 2023 [Talking with data - From ChatGPT4 to Microsoft Teams]
-![AI Days Rome](https://img.youtube.com/vi/tgTgi59e5f/mqdefault.jpg)(https://www.youtube.com/watch?v=tgTgi59e5f)
+![AI Days Rome](https://img.youtube.com/vi/tgTgi59e5fI/mqdefault.jpg)(https://www.youtube.com/watch?v=tgTgi59e5fI)
 
 
 #### Gli stati generali dell'Intelligenza Artificiale
@@ -26,6 +26,6 @@ A list of videos you can find on youtube about different topics!
 
 
 #### Hub Divulgazione Scientifica
-![Hub Divlgazione](https://img.youtube.com/vi/VIDEO_ID_3/mqdefault.jpg)(https://www.youtube.com/watch?v=VIDEO_ID_3)
+![Hub Divlgazione](https://img.youtube.com/vi/s1DlcMWxBG8/mqdefault.jpg)(https://www.youtube.com/watch?v=s1DlcMWxBG8)
 
 
