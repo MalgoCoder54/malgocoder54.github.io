@@ -6,9 +6,9 @@ abstract: "Have you ever come across a breathtaking landscape, or a charming noo
 
 # The Dream Team(s) background
 
-Hello everyone! Today, I'd like to take you on a personal journey that led me to experiment with Bing Chat, aiming to create a custom background for my Teams calls. Have you ever stumbled upon a breathtaking landscape or a charming corner in a bar or bookstore and thought, 'How perfect this would be as my background?' Maybe you didn't have a camera on hand, or you're not exactly a professional photographer. Well, with the power of GenAI, you don't need to be! You can capture and transform these inspiring scenes into unique backgrounds for your own use. No professional equipment or skills needed!
+Hello everyone! Today, I'd like to take you on a personal journey that led me to experiment with [Copilot](https://copilot.microsoft.com/), aiming to create a custom background for my Teams calls. Have you ever stumbled upon a breathtaking landscape or a charming corner in a bar or bookstore and thought, 'How perfect this would be as my background?' Maybe you didn't have a camera on hand, or you're not exactly a professional photographer. Well, with the power of GenAI, you don't need to be! You can capture and transform these inspiring scenes into unique backgrounds for your own use. No professional equipment or skills needed!
 
-In this tutorial I'll use the microsoft copilot pubblicly avaliable: [Microsoft Copilot](https://copilot.microsoft.com/)
+In this tutorial I'll use the microsoft copilot avaliable to all for free: [Microsoft Copilot](https://copilot.microsoft.com/), and I'll leverage the copilot capabilities to undestand images & create new ones with Dall-e3.
 
 ## Chapter 1: A Cozy Bar
 
@@ -26,7 +26,7 @@ I was wandering around the city with my wife, my daughter, and my dog when we st
 
 ## Chapter 2: The first prompt
 
-I began by uploading the picture to Bing Chat and asked it what kind of prompt it would use to recreate the same picture. I know, it's not exactly a product of my own imagination, but I must admit, I lack an artistic streak!
+I began by uploading the picture to Copilot and asked it what kind of prompt it would use to recreate the same picture. I know, it's not exactly a product of my own imagination, but I must admit, I lack an artistic streak!
 
 `What prompt would you pass to Dall.e3 to generate the very same image?`
 
@@ -61,7 +61,7 @@ And there it is!
 </figure>
 </p>
 
-## Chapter 3: Playing with Bing Chat
+## Chapter 3: Playing with Copilot
 
 Okay, the base image is truly amazing! It captures the cozy atmosphere of the bar beautifully. 
 
@@ -122,4 +122,4 @@ And that were the results:
 
 --- 
 
-I hope this story inspires you to explore the possibilities offered by Bing Chat & by Designer. Whether it's recreating your favorite coffee shop or imagining a completely new place, I can't wait to see where your creativity will take you! Let me know in the comment on Linkedin page or in the Discussion in my repo!
+I hope this story inspires you to explore the possibilities offered by Copilot & by Designer. Whether it's recreating your favorite coffee shop or imagining a completely new place, I can't wait to see where your creativity will take you! Let me know in the comment on Linkedin page or in the Discussion in my repo!
