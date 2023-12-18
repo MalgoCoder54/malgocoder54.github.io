@@ -69,18 +69,11 @@ But, as always, I want to add a touch of personal flair! I have a particular fon
 
 `can you do it, with the same style, but like it was a cozy wood cabin with a big window? outside the window I'd love to see a wood, in late fall, with the snow that begin to fall. Inside a desk and a library`
 
-<p align="center">
-<figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_background/pt3.jpg" width="512" />
-    <figcaption  align="center">That is a standard cabin though.</figcaption>
-</figure>
-</p>
-
 And this one is very nice as well!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/img_background/pt3_3.jpg"width="512" /> 
+    <img src="https://malgocoder54.github.io/assets/img_background/pt3_3.jpg" width="512" /> 
     <figcaption  align="center">Amazing wooden cabin, but still not quite as I want them :) </figcaption>
 </figure>
 </p>
@@ -100,7 +93,7 @@ Here we are!!
 
 ## Chapter 4: My New Teams Background
 
-Last bit... I'd love to make the cozy wood cabin even more mine... So a desk and a laptop are mandatory :) Here the last prompt:
+Last bit... I'd love to make the cozy wood cabin even more mine... So a laptop on the desk is mandatory :) Here the last prompt:
 
 `now add a surface laptop` 
 
