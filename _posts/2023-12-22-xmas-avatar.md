@@ -63,8 +63,7 @@ And I choose the one I loved the most. By having it in the second layer, the Ava
 </p>
 
 
-Now you can add all the elements you like! Add each element as a separate layer, giving you the freedom to adjust and reposition as you see fit. Remember, co-designer is your creative companion, suggesting and generating elements that bring your holiday vision to life.
-If you want a different flavour of the background, or the other elements, you can choos a specific style in the cocreator ribbon!
+Now you can add all the elements you like! Add each element as a separate layer, giving you the freedom to adjust and reposition it to make it fit. Remember, co-designer is your creative companion, suggesting and generating elements that bring your holiday vision to life, so if you want a different flavour of the background, or the other elements, you can choose a specific style in the cocreator ribbon!
 
 <p align="center">
 <figure align="center">
