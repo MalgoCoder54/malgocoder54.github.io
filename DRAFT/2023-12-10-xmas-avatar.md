@@ -46,14 +46,38 @@ Now, the button next to the "Layers" one is where the XMas magic happens! If you
 </figure>
 </p>
 
+Now It's time to prompt! To create a background I used this one:
+
+`A big squared window, only the loom. the glass may be present but they must be transparent. Make it like it is in a mountain chalet, in light brown wood. Outside the window a winter forest. Make it in cartoon style`
 
 
-Add each element as a separate layer, giving you the freedom to adjust and reposition as you see fit. Remember, co-designer is your creative companion, suggesting and generating elements that bring your holiday vision to life.
+And I choose the one I loved the most. By having it in the second layer, the Avatar will appera to be in front of the window!
+
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/xmas_flavour/sfondo.png"/>
+    <figcaption  align="center">Add the background</figcaption>
+</figure>
+</p>
+
+
+Now you can add all the elements you like! Add each element as a separate layer, giving you the freedom to adjust and reposition as you see fit. Remember, co-designer is your creative companion, suggesting and generating elements that bring your holiday vision to life.
+If you want a different flavour of the background, or the other elements, you can choos a specific style in the cocreator ribbon!
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/xmas_flavour/style_selection.png"/>
+    <figcaption  align="center">Add the background</figcaption>
+</figure>
+</p>
 
 
 
 ## Perfecting Your Holiday Avatar
-With your avatar now merrily adorned, it's time to ensure everything looks top-notch. Play around with each layer, adjusting positions and sizes to make sure your avatar isn't hidden behind a giant Santa hat or obscured by an oversized ornament. Feel free to tweak the opacity of your layers for that perfect ghostly snow effect or a subtle glow from holiday lights. The goal is a harmonious holiday avatar that's uniquely yours.
+
+With your avatar now merrily adorned, it's time to ensure everything looks top-notch. Play around with each layer, adjusting positions and sizes to make sure your avatar isn't hidden behind a giant Santa hat or obscured by an oversized ornament. I created a layer with a Santa hat, indeed, and placed it in front of my avatar (of course I took care of the white background), fitting onto my head. Remeber to resize the avatar to have it proportional to the whole picture!
+Feel free to tweak the opacity of your layers for that perfect ghostly snow effect or a subtle glow from holiday lights. The goal is a harmonious holiday avatar that's uniquely yours.
 
 **That's what I came up with at the end!**
 
@@ -65,6 +89,6 @@ With your avatar now merrily adorned, it's time to ensure everything looks top-n
 </p>
 
 ---
-**Conclusion**
+
 And there you have it! Your avatar is now ready to spread holiday cheer across the digital realm. The Prompt Pub let's raise my glass to your creativity and festive spirit! Don't be a stranger, share your holiday avatars with me and spread the cheer. Here's to a season filled with joy, creativity, and a dash of Prompt Pub magic!
 
