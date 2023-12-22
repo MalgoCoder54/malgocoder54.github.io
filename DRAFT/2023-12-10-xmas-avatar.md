@@ -17,6 +17,13 @@ DALL-E 3. Get ready to turn your digital self into a beacon of holiday cheer! Wh
 ## Section 1: Prepping Your Avatar
 Before we dive into the tinsel and lights, let's start with the basics. If you've followed our previous guide, you've got a smashing avatar ready. But if it's still lounging against a drab background, fear not! Microsoft Paint's 'Remove Background' feature will help isolate your digital mini-me. Simply upload your avatar and let Paint work its magic, leaving you with a clean slate ready for a holiday revamp.
 
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/img_background/original.jpg"/>
+    <figcaption  align="center">Load your avatar and click on "Remove Backround" button</figcaption>
+</figure>
+</p>
+
 ## Section 2: Crafting a Festive Scene with Layers and co-designer
 Now, let's get to the fun part! Layers are like the floors of a holiday department store, each with its own set of delights. First, we'll lay down the groundwork with a festive background. Open the co-designer, and select a wintry scene or perhaps something with a bit of sparkle. Next, it's time to deck out your avatar with accessories. Hats? Bells? Reindeer antlers? Add each as a separate layer, giving you the freedom to adjust and reposition as you see fit. Remember, co-designer is your creative companion, suggesting and generating elements that bring your holiday vision to life.
 
