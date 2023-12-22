@@ -20,7 +20,7 @@ Before we dive into the tinsel and lights, let's start with the basics. If you'v
 <p align="center">
 <figure align="center">
     <img src="https://malgocoder54.github.io/assets/xmas_flavour/Background_remover.png"/>
-    <figcaption  align="center">Load your avatar and click on "Remove Backround" button to have just the avatar with no background.</figcaption>
+    <figcaption  align="center"><em>Load your avatar and click on "Remove Backround" button to have just the avatar with no background.</em></figcaption>
 </figure>
 </p>
 
@@ -33,7 +33,7 @@ Now, let's get to the fun part! Layers are like the floors of a holiday departme
 <p align="center">
 <figure align="center">
     <img src="https://malgocoder54.github.io/assets/xmas_flavour/add_layer.png"/>
-    <figcaption  align="center">Load your avatar and click on "Remove Backround" button to have just the avatar with no background.</figcaption>
+    <figcaption  align="center"><em>Load your avatar and click on "Remove Backround" button to have just the avatar with no background.</em></figcaption>
 </figure>
 </p>
 
@@ -42,7 +42,7 @@ Now, the button next to the "Layers" one is where the XMas magic happens! If you
 <p align="center">
 <figure align="center">
     <img src="https://malgocoder54.github.io/assets/xmas_flavour/cocreator.png"/>
-    <figcaption  align="center">Open the cocreator ribbon</figcaption>
+    <figcaption  align="center"><em>Open the cocreator ribbon</em></figcaption>
 </figure>
 </p>
 
@@ -51,13 +51,13 @@ Now It's time to prompt! To create a background I used this one:
 `A big squared window, only the loom. the glass may be present but they must be transparent. Make it like it is in a mountain chalet, in light brown wood. Outside the window a winter forest. Make it in cartoon style`
 
 
-And I choose the one I loved the most. By having it in the second layer, the Avatar will appera to be in front of the window!
+And I choose the one I loved the most. By having it in the second layer, the Avatar will appear to be in front of the window!
 
 
 <p align="center">
 <figure align="center">
     <img src="https://malgocoder54.github.io/assets/xmas_flavour/sfondo.png"/>
-    <figcaption  align="center">Add the background</figcaption>
+    <figcaption align="center"><em>Add the background</em></figcaption>
 </figure>
 </p>
 
@@ -68,7 +68,18 @@ If you want a different flavour of the background, or the other elements, you ca
 <p align="center">
 <figure align="center">
     <img src="https://malgocoder54.github.io/assets/xmas_flavour/style_selection.png"/>
-    <figcaption  align="center">Add the background</figcaption>
+    <figcaption  align="center"><em>Select a style </em></figcaption>
+</figure>
+</p>
+
+For the final edit, I asked the cocreator to add a santa hat:
+
+`a XMas hat in cartoon style. Only the hat with white background like a PNG.`
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/xmas_flavour/FinalEdit.png"/>
+    <figcaption  align="center"><em> The final edit </em></figcaption>
 </figure>
 </p>
 
@@ -83,8 +94,8 @@ Feel free to tweak the opacity of your layers for that perfect ghostly snow effe
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/xmas_flavour/cocreator.png"/>
-    <figcaption  align="center">Open the cocreator ribbon</figcaption>
+    <img src="https://malgocoder54.github.io/assets/xmas_flavour/FinalImages.png"/>
+    <figcaption  align="center"><em>My XMas Avatar!</em></figcaption>
 </figure>
 </p>
 
