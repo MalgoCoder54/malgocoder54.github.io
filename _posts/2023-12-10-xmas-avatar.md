@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Holiday Makeover with Paint & Dalle3"
+abstract: "Deck your digital avatar with holiday cheer using Microsoft Paint's co-designer and DALL-E 3. Create festive scenes, add fun elements, and perfect your holiday avatar. "
 ---
 
 # Decking Out Your Digital Doppelgänger: A Holiday Makeover with Microsoft Paint's co-designer
