@@ -53,6 +53,8 @@ This is the core of how an effective meta-prompt shall be costructed. Now let's 
 
 ### Let's test the bartender
 
+--- SOME CHAT FOR A TEST!!! --- SCREEN A WRITINGS
+
 
 ### Meta-Prompting toolbox
 
