@@ -19,7 +19,7 @@ To let Edge Copilot read your opened pages, you must allow it in the settings! T
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/summary_pdf/abilita_copilot_docs.png"/>
+    <img src="https://malgocoder54.github.io/assets/summary_pdfs/abilita_copilot_docs.png"/>
     <figcaption  align="center">Allow copilot to access you page content </figcaption>
 </figure>
 </p>
@@ -57,7 +57,7 @@ Edge Copilot provided a succinct summary of the PDF, illuminating the main point
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/summary_pdf/tutorial_1.png"/>
+    <img src="https://malgocoder54.github.io/assets/summary_pdfs/tutorial_1.png"/>
     <figcaption  align="center">This is the first prompt to tell Edge Copilot that it should look at the PDF and provide insights about it.</figcaption>
 </figure>
 </p>
@@ -71,7 +71,7 @@ Edge Copilot outlined several actionable strategies based on the document, inclu
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/summary_pdf/tutorial_2.png"/>
+    <img src="https://malgocoder54.github.io/assets/summary_pdfs/tutorial_2.png"/>
     <figcaption  align="center">In this interaction, Copilot answers only with the PDF content and provides an in-PDF reference.</figcaption>
 </figure>
 </p>
@@ -84,7 +84,7 @@ Edge Copilot deciphered the application process and eligibility criteria directl
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/summary_pdf/tutorial_3.png"/>
+    <img src="https://malgocoder54.github.io/assets/summary_pdfs/tutorial_3.png"/>
     <figcaption  align="center">In this interaction, Copilot answers with the PDF content and enhances the answer after a Bing web search.</figcaption>
 </figure>
 </p>
@@ -104,7 +104,7 @@ This interactive session with Edge Copilot turned an obscure document into a tre
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/summary_pdf/tutorial_4.png"/>
+    <img src="https://malgocoder54.github.io/assets/summary_pdfs/tutorial_4.png"/>
     <figcaption  align="center">In this interaction, Copilot creates the draft of this tutorial .</figcaption>
 </figure>
 </p>
