@@ -9,13 +9,13 @@ abstract: "Discover how Copilot in Edge transforms document summarization, makin
 
 Are you tired of slogging through endless pages of dense documents? Whether it's a complex research paper, a hefty report, or any other lengthy text, the innovative Copilot in Edge is here to revolutionize the way you interact with information. 🌟
 
-In the vast ocean of digital content, it's easy to feel overwhelmed. But fear not! This guide is your beacon, leading you to the shores of efficiency and clarity. Let's set sail and discover how Copilot can transform your reading experience, making summarization a breeze.
+In the vast ocean of digital content, it's easy to feel overwhelmed. But fear not! This guide is your beacon, leading you to the shores of efficiency and clarity. Let's set sail and discover how Copilot can transform your reading experience, making summarization a breeze. Indeed, there's not only summarisation, but in this piece I explore how to interact with you document or webpage effectively, to be able to talk with it trought Edge Copilot!
 
 ## Understanding Copilot in Edge 🧭
 
-Before we dive into the how-to, let's take a moment to truly understand our digital companion, Copilot in Edge. This isn't just a feature; it's a revolutionary tool designed to make your digital life infinitely easier. Think of Copilot as your ally in the battle against information overload, a sophisticated AI right in your browser that reads, comprehends, and condenses text for you.
+Before we dive into the how-to, let's take a moment to truly understand our digital companion, Copilot in Edge. This isn't just a feature; it's a revolutionary tool designed to make your digital life infinitely easier. Think of Copilot as your ally in the battle against information overload, a sophisticated AI right in your browser that reads, comprehends, and condenses text for you. Once Copilot understand something you can, prompting it, make a full conversation with an exper of the document it just read!
 
-To let Edge Copilot read your opened pages, you must allow it in the settings! To do so, when you open Copilot, click on the three dots, open the "Notification and App Settings" menu, and make sure the "Allow Microsoft Copilot to access page content" toggle is selected.
+**Important setting**: To let Edge Copilot read your opened pages, you must allow it! To do so, when you open Copilot, click on the three dots, open the "Notification and App Settings" menu, and make sure the "Allow Microsoft Copilot to access page content" toggle is selected.
 
 <p align="center">
 <figure align="center">
