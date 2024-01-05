@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "the Art of Quick Summarization of long documents with Copilot in Edge"
+title: "The Art of Quick Summarization of long documents with Copilot in Edge"
 abstract: "Discover how Copilot in Edge transforms document summarization, making it swift and effortless. Let's face the overinformation issue by focusing just about the right bit you need! This guide explores its intuitive use, enhancing productivity and understanding it with a click"
 
 ---
