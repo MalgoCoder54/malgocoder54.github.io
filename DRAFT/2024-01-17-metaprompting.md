@@ -88,7 +88,7 @@ Now we can keep up asking question 'bout... sorry... about drafting!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/meta_prompt/meta-prompts_out4.png"/>
+    <img src="https://malgocoder54.github.io/assets/meta_prompt/meta-prompts.md"/>
     <figcaption  align="center">And we can go on and on... </figcaption>
 </figure>
 </p>
