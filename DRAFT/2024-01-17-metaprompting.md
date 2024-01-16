@@ -88,7 +88,7 @@ Now we can keep up asking question 'bout... sorry... about drafting!
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/meta_prompt/meta-prompts.md"/>
+    <img src="https://malgocoder54.github.io/assets/meta_prompt/meta-prompts_out4.png"/>
     <figcaption  align="center">And we can go on and on... </figcaption>
 </figure>
 </p>
@@ -98,7 +98,7 @@ Now we can keep up asking question 'bout... sorry... about drafting!
 
 Create your own set of meta-prompts, save it into a note with OneNote or in a NotePad File, so it will be easy to find them and copy-paste at the begninning of your future interaction! Follow this link to have a set of meta-prompts that you can download!
 
-[Open the Prompt Menù](https://malgocoder54.github.io/assets/meta_prompt/meta-prompts_out4.png)
+[Open the Prompt Menù](https://malgocoder54.github.io/assets/meta_prompt/meta-prompts.md)
 
 ---
 Embracing meta prompts in Copilot Pro can revolutionize your workflow, offering a more personalized and efficient experience. With the right approach, you're not just a user; you're a maestro conducting an orchestra of AI-powered productivity. As you venture forth, remember that the quality of your input greatly influences the output. Happy prompting!
