@@ -5,6 +5,12 @@ abstract: "Discover how to transform your AI interactions using meta prompts wit
 ---
 
 # Mastering Copilot Pro: Crafting Meta Prompts for Enhanced Interactions
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/meta_prompt/head_Prompt.png"/>
+</figure>
+</p>
  
 
 In the dynamic world of AI and productivity, Copilot Pro stands as a beacon of efficiency, transforming the way we interact with our digital workspace. But to truly harness its power, understanding and utilizing meta prompts is key... But what.. What's a _meta prompt_?
