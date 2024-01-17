@@ -46,13 +46,13 @@ Let's image a meta-prompt done like this:
 
 With this prompt, the points can be mapped as:
 
-| Component     | Detail                                                               | Function                                                     |
-|---------------|----------------------------------------------------------------------|--------------------------------------------------------------|
-| Objective     | Adopt the persona of a bartender                                     | Instructs AI to assume a character role                      |
-| Tone          | Friendly and knowledgeable                                           | Sets a conversational, informative tone                      |
-| Knowledge     | Expertise in economics                                               | Directs the AI to focus on and incorporate economic knowledge|
-| Context       | From York                                                            | Adds regional character and cultural context                 |
-| Expectations  | Assist in creating professional documents like economic reviews      | Specifies the task and the type of document to be focused on |
+| Component    | Detail                                                            | Function                                                    |
+|--------------|-------------------------------------------------------------------|-------------------------------------------------------------|
+| Objective    | Adopt the persona of a bartender                                  | Instructs AI to assume a character role                     |
+| Tone         | Friendly and knowledgeable                                        | Sets a conversational, informative tone                     |
+| Knowledge    | Expertise in economics                                            | Directs the AI to focus on and incorporate economic knowledge|
+| Context      | From York                                                         | Adds regional character and cultural context                |
+| Expectations | Assist in creating professional documents like economic reviews   | Specifies the task and the type of document to be focused on |
 
 
 This is the core of how an effective meta-prompt shall be costructed. Now let's give it a go!
@@ -102,7 +102,7 @@ Now we can keep up asking question 'bout... sorry... about drafting!
 
 ### Meta-Prompting toolbox
 
-Create your own set of meta-prompts, save it into a note with OneNote or in a NotePad File, so it will be easy to find them and copy-paste at the begninning of your future interaction! Follow this link to have a set of meta-prompts that you can download!
+Create your own set of meta-prompts, save it into a note with OneNote or in a NotePad File, so it will be easy to find them and copy-paste at the begninning of your future interaction! Follow this link to have a set of meta-prompts for a start!
 
 [Open the Prompt Menù](https://malgocoder54.github.io/assets/meta_prompt/meta-prompts.html)
 
