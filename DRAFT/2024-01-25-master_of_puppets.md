@@ -29,7 +29,7 @@ Let's start from the top: I'll start with a use case of a solar system presentat
 
 ## A ppt pre ad post
 
- Here you can find the presentation created by Copilot Pro with my personal licence of Microsoft365.
+ [Here you can find the presentation](https://malgocoder54.github.io/assets/masterofpuppets/Presentation.pdf) created by Copilot Pro with my personal licence of Microsoft365.
  As you can see, the presentation is quite poor,  even because I did not added or modified it. It is just the first draft.
 
 The general outline is:
@@ -118,7 +118,7 @@ I then imagined and crafted other astrocats, one for each slides! In the table b
 </table>
 
 <br><br><br>
-Finally, here the [new version]() of the presentation!
+Finally, here the [new version](https://malgocoder54.github.io/assets/masterofpuppets/Presentation_v2.pdf) of the presentation!
 
 
 ## Conclusion
@@ -130,4 +130,3 @@ Remember, the universe of presentation design is as boundless as space itself. S
 We can't wait to see the fantastic presentations you'll create! Don't forget to share your spacefaring cat adventures with us here at The Prompt Pub. After all, every great journey is better with companions.
 
 Until our next creative endeavor, keep exploring, keep imagining, and keep presenting! 🌟🚀🐱📊🎨
-
