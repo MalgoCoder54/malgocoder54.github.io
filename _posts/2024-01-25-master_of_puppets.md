@@ -102,6 +102,7 @@ I then imagined and crafted other astrocats, one for each slides! In the table b
   </tr>
   <tr>
     <td>Planetary Pals: The Planets of Our Solar System</td>
+    <td>A cartoon cat astronaut riding a rocket, portrayed as if touring the planets, character alone without background.</td>
     <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (5).png" alt="Planetary Pals Image"></td>
   </tr>
   <tr>
