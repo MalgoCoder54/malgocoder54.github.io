@@ -102,7 +102,6 @@ I then imagined and crafted other astrocats, one for each slides! In the table b
   </tr>
   <tr>
     <td>Planetary Pals: The Planets of Our Solar System</td>
-    
     <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (5).png" alt="Planetary Pals Image"></td>
   </tr>
   <tr>
@@ -113,7 +112,7 @@ I then imagined and crafted other astrocats, one for each slides! In the table b
   <tr>
     <td>Space Rocks and Icy Wanderers: Asteroids and Comets</td>
     <td>A cartoon cat astronaut in a spacesuit, playfully posed as if dodging asteroids and comets, without background.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (5).png" alt="Space Rocks and Icy Wanderers Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (1).png" alt="Space Rocks and Icy Wanderers Image"></td>
   </tr>
 </table>
 
