@@ -54,7 +54,7 @@ And this is the result:
 
 <p align="center">
 <figure align="center">
-    <img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(2).png"/>
+    <img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (2).png"/>
     <figcaption  align="center">This is the first puppet i generated for the table of conent</figcaption>
 </figure>
 </p>
@@ -88,36 +88,36 @@ I then imagined and crafted other astrocats, one for each slides! In the table b
   <tr>
     <td>Table of Contents</td>
     <td>A cartoon astronaut cat wearing a spacesuit and holding a signboard, designed to display a table of contents.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(2).png" alt="Table of Contents Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (2).png" alt="Table of Contents Image"></td>
   </tr>
   <tr>
     <td>Welcome to Our Solar System!</td>
     <td>A cheerful cartoon cat astronaut floating in space, with a welcoming gesture, depicted without background.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(3).png" alt="Welcome to Our Solar System Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (3).png" alt="Welcome to Our Solar System Image"></td>
   </tr>
   <tr>
     <td>The Sun: Our Very Own Star</td>
     <td>A cartoon cat astronaut wearing sunglasses and a sun hat, playfully pointing, isolated with no background.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(4).png" alt="The Sun Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (4).png" alt="The Sun Image"></td>
   </tr>
   <tr>
     <td>Planetary Pals: The Planets of Our Solar System</td>
     <td>A cartoon cat astronaut riding a rocket, portrayed as if touring the planets, character alone without background.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(5).png" alt="Planetary Pals Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (5).png" alt="Planetary Pals Image"></td>
   </tr>
   <tr>
     <td>Moons and More: The Satellites of the Solar System</td>
     <td>An inquisitive cartoon cat astronaut looking through a telescope, focusing on the cat, no background.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(6).png" alt="Moons and More Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (6).png" alt="Moons and More Image"></td>
   </tr>
   <tr>
     <td>Space Rocks and Icy Wanderers: Asteroids and Comets</td>
     <td>A cartoon cat astronaut in a spacesuit, playfully posed as if dodging asteroids and comets, without background.</td>
-    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets(5).png" alt="Space Rocks and Icy Wanderers Image"></td>
+    <td><img src="https://malgocoder54.github.io/assets/masterofpuppets/puppets (5).png" alt="Space Rocks and Icy Wanderers Image"></td>
   </tr>
 </table>
 
-
+<br><br><br>
 Finally, here the [new version]() of the presentation!
 
 
