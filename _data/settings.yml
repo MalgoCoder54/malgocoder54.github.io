@@ -17,4 +17,7 @@ department: 'R&D',
  institution_address: 'Via Cavour 2, Lomazzo (CO) - Italy', 
  phone: '+39 347.3686306', 
  email: 'luca.malinverno@porini.it', 
+ X: '@malinverno_luca - https://twitter.com/malinverno_luca',
+ LinkedIn: 'https://linkedin.com/in/luca-malinverno',
+ github: 'malgocoder54.github.io',
   image: 'assets/img/LucaMalinverno_Small.jpg'}
