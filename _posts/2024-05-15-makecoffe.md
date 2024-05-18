@@ -24,87 +24,14 @@ As any true experiment begins, I laid out my tools: a classic moka pot, freshly 
 
 The journey began with a simple yet baffling discovery of the moka pot in my kitchen. Not fully sure of its purpose (as many of not italian readers), I turned to my AI Copilot, seeking enlightenment. Its response was swift and informative, sparking a flicker of excitement about the possibilities that lay ahead.
 
-```**Prompt**: I found this thing at home... what is it?```
-
-```**Response:** That's a moka pot, used for brewing espresso on the stovetop. It's composed of a base for water, a filter basket for coffee, and a collection chamber for your brewed espresso. ```
-
-#### The Brewing Begins:
-With the moka pot's anatomy clarified, it was time to get brewing. Under AI's watchful guidance, I filled the base with water just below the safety valve—a crucial step to prevent a kitchen catastrophe.
-
-text
-```Prompt: How do I fill this with water and where does the coffee go?```
- The AI was meticulous, instructing me to add water first and then coffee, ensuring I didn’t mix up the order—a potential rookie mistake.
- 
-```Response: Fill the base with cold water up to the valve. Then, add your ground coffee to the filter but don’t press it down—just level it gently. This allows the water to percolate evenly through the coffee, capturing the full flavor.```
-
-So i gave it a try, and ask back, with a picture, if I was doing right...
-
- ```Prompt: This is the right place for the coffe?```
-And of course he told me that i was about to make a big mistake!
-
-As I moved to assemble the moka pot, I hit my first major snag. The top part seemed reluctant to join forces with the base. Frustrated but determined, I sought further AI assistance.
-
-text
-Copy code
-Prompt: Ok, trying to put the top part on, but it doesn't screw... any ideas?
-
-The AI's troubleshooting tips were a blend of mechanical insight and calming reassurance. It reminded me to check for any coffee grounds interfering with the seal and to ensure proper alignment.
-
-text
-Copy code
-Response: It sounds like you might not be aligning the threads correctly, or there’s something blocking the seal. Make sure everything is clean and aligned, then try again. Sometimes, giving the top a gentle twist in the opposite direction helps find the thread to screw it on correctly.
-The Moment of Truth:
-Finally, with the moka pot assembled and placed on the stove, the waiting game began. The anticipation was palpable. Would AI's theoretical coffee-making prowess translate into a real, aromatic success?
-
-text
-Copy code
-Prompt: It’s on the stove now; what should I be looking for?
-text
-Copy code
-Response: Listen for a hissing sound and watch for coffee to start emerging into the upper chamber. Once you see a steady stream of coffee, turn off the heat. Your coffee is ready!
-The first sip was a revelation—rich, robust, and exactly what you'd hope for in a traditional Italian espresso, all achieved with a little AI assistance.
-
----
-Reflecting on this AI-guided culinary adventure, it was more than just making coffee; it was a humorous and enlightening journey into the capabilities of modern technology and the timeless art of coffee brewing.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### My Prompts and Responses
-
 **Prompt:** I found this thing at home... what is it?
-![Moka Pot](image-url.jpeg)
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/img1.jpeg"/>
+    <figcaption  align="center"><em>My moka pot</em></figcaption>
+</figure>
+</p>
 
 **Response:** This is a moka pot, used to make espresso on the stovetop. It has three main parts: a base for water, a filter for ground coffee, and a top where the brewed coffee collects.
 
@@ -131,35 +58,71 @@ Certainly! Here's a step-by-step guide:
 6. **Serve and Enjoy:**
    Stir the coffee in the top chamber with a spoon, then pour into cups.
 
+#### The Brewing Begins:
+
+With the moka pot's anatomy clarified, it was time to get brewing. Under AI's watchful guidance, I filled the base with water just below the safety valve—a crucial step to prevent a kitchen catastrophe. They I tried the coffe... But...
+
+
 **Prompt:** I disassembled it... where does the coffee go? Here?
-![Disassembled Moka Pot](image-url2.jpeg)
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/img2.jpeg"/>
+    <figcaption  align="center"><em>My moka pot, disassembled</em></figcaption>
+</figure>
+</p>
 
 **Response:** 
-No, the coffee should go in the filter, not directly in the base. The base is for water. Place the filter in the base, then add the ground coffee to the filter.
+No, the coffee should go in the filter, that is the one next to the base, and you should not put coffe directly in the base. The base is for water. Place the filter in the base, then add the ground coffee to the filter.
 
 **Prompt:** Like this? 
-![Adding Coffee](image-url3.jpeg)
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/img3_a.jpeg"/>
+    <figcaption  align="center"><em>...</em></figcaption>
+</figure>
+</p>
 
 **Response:** 
 Almost, but the coffee needs to be in the filter, which should be placed in the base that already contains water.
 
-**Prompt:** Ok, trying to put the top part on, but it doesn't screw... any ideas?
-![Trying to Assemble](image-url4.jpeg)
+**Prompt** The coffe is in the filter see? And I put water in the base!
+
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/img3.jpeg"/>
+    <figcaption  align="center"><em>A bit of clarification for Copilot</em></figcaption>
+</figure>
+</p>
+
+**Response**
+Ok, I can see it now! Yes, it is right then! You should now close the moka pot and put it on fire!
+
+**Prompt:** Ok, trying to put the top part on, but it doesn't screw... any ideas? I'll show you! The handle seems it can move..
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/img4_a.jpeg"/>
+    <figcaption  align="center"><em>A first attempt</em></figcaption>
+</figure>
+</p>
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/img4.jpeg"/>
+    <figcaption  align="center"><em>A bit,again, of clarification for Copilot</em></figcaption>
+</figure>
+</p>
 
 **Response:**
-It looks like this moka pot doesn't have a screw thread. It might use a lever or latch mechanism. Ensure the filter is properly seated, align the top correctly, and secure it using the lever or latch.
+It looks like this moka pot doesn't have a screw thread. It might use a lever or latch mechanism. Ensure the filter is properly seated, align the top correctly, and secure it using the lever or latch. The lever or latch I suppose is the handler, since it can move!
 
 **Prompt:** It works!!! Thanks!!
 
 **Response:** 
 Fantastic! Enjoy your homemade espresso. If you have any more questions, feel free to ask.
 
-### Conclusion
-
-Using a moka pot can seem tricky at first, especially if it has a different locking mechanism than usual. By following these steps, you can easily brew a delicious cup of espresso at home. Enjoy your coffee!
-
 
 ---
+Reflecting on this AI-guided culinary adventure, it was more than just making coffee; it was a humorous and enlightening journey into the capabilities of modern technology and the timeless art of coffee brewing. This mean, that in principle by this chain of tought, you can ask Copilot to help you fix things, explain stuff, and, why not, ask it to solve problems when if you loose the user manual!
 
-Happy brewing!
 
