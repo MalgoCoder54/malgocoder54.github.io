@@ -7,6 +7,12 @@ abstract: "Join me on a caffeine-fueled adventure as we dive into the art of bre
 
 ## How to Make Coffee with a Moka Pot
 
+<p align="center">
+<figure align="center">
+    <img src="https://malgocoder54.github.io/assets/imgmoka/story.png"/>
+</figure>
+</p>
+
 ### Introduction
 
 In an age where AI has seemingly infiltrated every aspect of our lives, from curating playlists to driving cars, it’s only natural to wonder: can AI brew a cup of coffee too? Well, buckle up, coffee enthusiasts, because you’re about to witness AI in action in the realm of espresso! Yes, you heard it right—today, my trusty AI sidekick, Copilot, isn't just assisting with coding or answering emails; it's guiding me through the traditional yet perplexing process of brewing the perfect Italian coffee using a moka pot.
