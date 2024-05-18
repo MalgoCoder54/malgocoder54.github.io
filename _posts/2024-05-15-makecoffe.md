@@ -32,9 +32,7 @@ The Brewing Begins:
 With the moka pot's anatomy clarified, it was time to get brewing. Under AI's watchful guidance, I filled the base with water just below the safety valve—a crucial step to prevent a kitchen catastrophe.
 
 text
-Copy code
-Prompt: How do I fill this with water and where does the coffee go?
-The AI was meticulous, instructing me to add water first and then coffee, ensuring I didn’t mix up the order—a potential rookie mistake.
+```Prompt: How do I fill this with water and where does the coffee go? The AI was meticulous, instructing me to add water first and then coffee, ensuring I didn’t mix up the order—a potential rookie mistake.```
 
 text
 Copy code
